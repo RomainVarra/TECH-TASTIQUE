@@ -1,0 +1,11 @@
+.imgSrc {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 400px;
+    background-color: #e4e9feda;
+    border-radius: 1.5rem;
+    padding: 2rem 1rem;
+    box-shadow: 0.5rem 0.5rem #1d2131;
+    border: 0.15rem solid #1d2131;
+}

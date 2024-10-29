@@ -1,0 +1,14 @@
+.buttonArticle{
+    background-color: #1030bc;
+    color: #e4ebff;
+    border-radius: 0.75rem;
+    border-style: none;
+    padding: 0.5rem 1rem;
+    font-family: "Josefin Sans";
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+.buttonArticle:hover {
+    background-color: #3b5df6;
+    color: #e4ebff;
+}

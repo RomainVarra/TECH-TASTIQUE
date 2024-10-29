@@ -1,0 +1,60 @@
+[
+    {
+      "name": "Bracelet Pavlok",
+      "picture": "public/pictures/Pavlok.jpg",
+      "description": "Bracelet qui envoie une décharge électrique pour aider à briser les mauvaises habitudes comme fumer ou procrastiner.",
+      "price" : 50,
+      "category": "vetement connecté"
+    },
+    {
+      "name": "Cravate QR Tie",
+      "picture": "public/pictures/tie.jpg",
+      "description": "Cravate connectée avec QR code permettant de partager facilement des informations de contact numériques.",
+      "price" : 35,
+      "category": "vetement connectée"
+    },
+    {
+      "name": "Pantalon Drumpant",
+      "picture": "public/pictures/pant.jpg",
+      "description": "Pantalon connecté permettant de jouer de la batterie en mouvement, compatible avec plus de 300 applis musicales.",
+      "price" : 45,
+      "category": "vetement connecté"
+    },
+    {
+      "name": "Capteur Mint",
+      "picture": "public/pictures/capteur.jpg",
+      "description": "Capteur de mauvaise haleine mesurant des niveaux de gaz pour prévenir des mauvaises odeurs et indiquer la déshydratation.",
+      "price" : 20,
+      "category": "Capteur"
+    },
+    
+    {
+      "name": "Siège mamaRoo",
+      "picture": "public/pictures/siege.jpg",
+      "description": "Siège connecté pour bébés qui reproduit les mouvements de bercement et diffuse de la musique via une appli.",
+      "price" : 80,
+      "category": "objet connecté"
+    },
+    {
+      "name": "Umbrella Here",
+      "picture": "public/pictures/umbrella.jpg",
+      "description": "Lampe connectée pour parapluie indiquant la disponibilité pour partager un abri et fonctionnant aussi comme capteur météo.",
+      "price" : 25,
+      "category": "objet connecté"
+    },
+    {
+      "name": "Capteur Dfree",
+      "picture": "public/pictures/capteur_t.jpg",
+      "description": "Capteur de prédiction des mouvements intestinaux, conçu pour les personnes souffrant d'incontinence.",
+      "price" : 15,
+      "category": "Capteur"
+    },
+    {
+      "name": "Porte-rouleau Rollscout",
+      "picture": "public/pictures/RollScout.png",
+      "description": "Distributeur de papier toilette connecté qui alerte lorsqu'il faut changer le rouleau.",
+      "price" : 30,
+      "category": "objet connecté"
+    }
+    
+  ]

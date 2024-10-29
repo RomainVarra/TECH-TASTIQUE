@@ -1,0 +1,16 @@
+.details {
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.detailsIMG{
+    width: 80%;
+    height: auto;
+    border-radius: 0.5rem;
+}
+
+aside{
+    color: rgb(255, 169, 8);
+    font-weight: bold;
+}
+
